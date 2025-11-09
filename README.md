@@ -10,5 +10,5 @@ A collection of Bash scripts designed to automate system maintenance tasks on Li
 - Interactive Menu: Easily run all tasks through a command-line interface.
 - Modular Structure: Organized day-wise for clear progression and ease of use.
 
-## Project Structure
+
 
